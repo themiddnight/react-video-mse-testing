@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className='max-w-5xl mx-auto'>
-      <h1 className='text-2xl font-bold text-center mt-4 mb-5'>Video Player with MSE</h1>
+      <h1 className='text-2xl font-bold text-center mt-4 mb-5'>Video test with MSE</h1>
       <div className='w-full flex justify-center items-center mb-3'>
         <label className='mr-2 shrink-0'>Video URL:</label>
         <input
